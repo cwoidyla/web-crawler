@@ -1,0 +1,1 @@
+scrapy runspider sentiment.py -o data.json
